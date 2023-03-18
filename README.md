@@ -11,5 +11,5 @@
 ![styledComponents](https://camo.githubusercontent.com/8d29f15964b1cb2254deccb293a2c444eee52078b3d448b6149c17c5ab40d2ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374796c65642d636f6d706f6e656e74732d4442373039333f7374796c653d266c6f676f3d7374796c65642d636f6d706f6e656e7473266c6f676f436f6c6f723d7768697465)
 
 
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungki96&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungki96&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=Jungki96&show_icons=true">
