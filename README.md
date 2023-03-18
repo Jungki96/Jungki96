@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=04005&height=300&section=header&text=Jungki's Github&fontSize=90&fontColor=d6ace6&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=04005&height=300&section=header&text=Jungki's Github&fontSize=90&fontColor=EB688D&animation=fadeIn)
 <!-- https://github.com/kyechan99/capsule-render -->
 
 
