@@ -1,7 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=440bd4&height=300&section=header&text=Jungki's Github&fontSize=90&fontColor=EB688D&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=440bd4&height=300&section=header&text=Jungki's%20Github&fontSize=90&fontColor=EB688D&animation=fadeIn)
 <!-- https://github.com/kyechan99/capsule-render -->
+<!--   띄어쓰기 :" "     -->
 
 
 #### Front-end
