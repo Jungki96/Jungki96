@@ -15,10 +15,11 @@
 
 <!-- 테마 색상 : dark, radical, merko,guvbox,tokyonight,onedark,cabalt,synthwave,highcontrast,dracula -->
   <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungki96&layout=compact&theme=dracula">
+
     </div>
     <div>
 <img src="https://github-readme-stats.vercel.app/api?username=Jungki96&show_icons=true&theme=dracula">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungki96&layout=compact&theme=radical">
         </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=440bd4&height=200&section=footer)
