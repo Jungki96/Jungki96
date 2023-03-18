@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jungki's Github! &fontSize=90" 
 
 ### I Can
 
