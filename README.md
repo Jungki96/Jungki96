@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=white&height=300&section=header&text=capsule%20render&fontSize=90)
+<!-- https://github.com/kyechan99/capsule-render -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Jungki's Github%20render&fontSize=90)
 
-### I Can
 
 #### Front-end
 ![javaScript](https://camo.githubusercontent.com/fe1c8df487dbc029d3a1819dcc5bf79e066f1307131191ac2b02de8c3c55da81/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465)
