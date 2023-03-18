@@ -14,3 +14,5 @@
 <!-- 테마 색상 : dark, radical, merko,guvbox,tokyonight,onedark,cabalt,synthwave,highcontrast,dracula -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungki96&layout=compact&theme=dracula">
 <img src="https://github-readme-stats.vercel.app/api?username=Jungki96&show_icons=true&theme=dracula">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
