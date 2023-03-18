@@ -1,3 +1,5 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=440bd4&height=300&section=header&text=Jungki's Github&fontSize=90&fontColor=EB688D&animation=fadeIn)
 <!-- https://github.com/kyechan99/capsule-render -->
 
@@ -16,3 +18,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Jungki96&show_icons=true&theme=dracula">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=440bd4&height=200&section=footer)
+</div>
